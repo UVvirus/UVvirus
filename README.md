@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on code4rena, Immuneffi
 - 📫 How to reach me Linkedin: https://www.linkedin.com/in/s-yuvarajan/
                      Twitter: https://twitter.com/UV_virus
+- Medium blog link: https://medium.com/UVvirus
 
 <!---
 UVvirus/UVvirus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
