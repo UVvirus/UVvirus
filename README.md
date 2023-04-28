@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @UVvirus
-- 👀 I’m interested in web3 security
-- 🌱 I’m currently learning Solidity, Foundary
-- 💞️ I’m looking to collaborate on code4rena, Immuneffi
-- 📫 How to reach me Linkedin: https://www.linkedin.com/in/s-yuvarajan/
-                     Twitter: https://twitter.com/UV_virus
-- Medium blog link: https://medium.com/UVvirus
+# Hello✨ 
+
+Hello @UVvirus here, I am a python developer and also a Security Researcher(Both Web2 and Web3). I spend most of my time in either creating Security tools or  by doing bug bounties(mostly smart contract auditing). If you would love to read some technical stuff, check out thee below link.
+
+# Medium blog link:
+-  https://medium.com/UVvirus
+
+# Latest Project:
+- 
 
 # Audits / Security / Web3
 - Security related
@@ -22,6 +24,10 @@
 - Hackathons & Achievements
   - Won ETHIndia2022 Hackathon
   - All India Rank #1: Inctf pro finals 2021
+
+# 📫 How to reach me 
+  - Linkedin:https://www.linkedin.com/in/s-yuvarajan/
+  - Twitter: https://twitter.com/UV_virus
 
 <!---
 UVvirus/UVvirus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
