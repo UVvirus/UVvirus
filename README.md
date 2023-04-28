@@ -3,10 +3,12 @@
 Hello @UVvirus here, I am a python developer and also a Security Researcher(Both Web2 and Web3). I spend most of my time in either creating Security tools or  by doing bug bounties(mostly smart contract auditing). If you would love to read some technical stuff, check out thee below link.
 
 # Medium blog link:
+Here i will writing about Security related concepts. 
 -  https://medium.com/UVvirus
 
-# Latest Project:
-- 
+# Latest Project link:
+If you want to automate your bug bounty process 100% percent, then this project is for you. Check this out.
+- https://github.com/UVvirus/codeGuardianX
 
 # Audits / Security / Web3
 - Security related
