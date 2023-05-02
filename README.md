@@ -1,6 +1,6 @@
 # Hello✨ 
 
-Hello @UVvirus here, I am a python developer and also a Security Researcher(Both Web2 and Web3). I spend most of my time in either creating Security tools or  by doing bug bounties(mostly smart contract auditing). If you would love to read some technical stuff, check out thee below link.
+Hello @UVvirus here, I am a python developer and also a Security Researcher(Both Web2 and Web3). I spend most of my time in either creating Security tools or by doing bug bounties(mostly smart contract auditing) and If you would love to read some technical stuff, check out the below link.
 
 # Medium blog link:
 Here i will writing about Security related concepts. 
